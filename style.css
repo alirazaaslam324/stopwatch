@@ -1,0 +1,14 @@
+body{
+    background-image: url(img.jpg);
+}
+
+
+ul li{
+    float: left;
+    text-decoration: none;
+    display: block;
+    padding: 10px 30px;
+    font-size: 40px;
+    color: dodgerblue;
+}
+
